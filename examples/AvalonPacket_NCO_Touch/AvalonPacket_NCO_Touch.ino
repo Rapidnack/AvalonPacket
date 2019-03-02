@@ -2,7 +2,6 @@
 #include <AvalonPacket.h>
 #include <Wire.h>
 #include "SSD1306Wire.h"
-#include <nvs.h>
 
 long freq = 1000;
 long freqStep = 1000;
