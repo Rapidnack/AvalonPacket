@@ -20,5 +20,5 @@ ESP32のArduinoスケッチからSPI経由でIntel FPGAを操作できます。
 
 # References
 
-[https://github.com/Rapidnack/Esp32IfTest](https://github.com/Rapidnack/MAX1k_FM_Mono)
+[https://github.com/Rapidnack/MAX1k_FM_Mono](https://github.com/Rapidnack/MAX1k_FM_Mono)
 
