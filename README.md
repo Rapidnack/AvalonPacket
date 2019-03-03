@@ -11,6 +11,7 @@ ESP32のArduinoスケッチからSPI経由でIntel FPGAを操作できます。
 ![全体画像](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/Overall-image.png)
 
 選局、音量はESP32のタッチセンサーで操作しています。
+
 ![操作パネル](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/FrontPanel.png)
 
 # Authors
