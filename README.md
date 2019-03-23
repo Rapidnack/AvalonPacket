@@ -1,18 +1,18 @@
 # AvalonPacket
 
-AvalonPacketƒvƒƒWƒFƒNƒg‚ÍAArduinoƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
-ESP32‚ÌArduinoƒXƒPƒbƒ`‚©‚çSPIŒo—R‚ÅIntel FPGA‚ğ‘€ì‚Å‚«‚Ü‚·B
+AvalonPacketãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€Arduinoãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚
+ESP32ã®Arduinoã‚¹ã‚±ãƒƒãƒã‹ã‚‰SPIçµŒç”±ã§Intel FPGAã‚’æ“ä½œã§ãã¾ã™ã€‚
 
 ![AvalonPacket](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/AvalonPacket.png)
 
-•ÊƒvƒƒWƒFƒNƒg[MAX1k_FM_Mono](https://github.com/Rapidnack/MAX1k_FM_Mono)‚ÅFMƒ‰ƒWƒI‚Ì
-‘€ìƒpƒlƒ‹‚Ég—p‚µ‚Ä‚¢‚Ü‚·B
+åˆ¥ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ[MAX1k_FM_Mono](https://github.com/Rapidnack/MAX1k_FM_Mono)ã€
+[MAX10FB_FM_Stereo](https://github.com/Rapidnack/MAX10FB_FM_Stereo)ã§FMãƒ©ã‚¸ã‚ªã®æ“ä½œãƒ‘ãƒãƒ«ã«ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
-![‘S‘Ì‰æ‘œ](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/Overall-image.png)
+![å…¨ä½“ç”»åƒ](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/Overall-image.png)
 
-‘I‹ÇA‰¹—Ê‚ÍESP32‚Ìƒ^ƒbƒ`ƒZƒ“ƒT[‚Å‘€ì‚µ‚Ä‚¢‚Ü‚·B
+é¸å±€ã€éŸ³é‡ã¯ESP32ã®ã‚¿ãƒƒãƒã‚»ãƒ³ã‚µãƒ¼ã§æ“ä½œã—ã¦ã„ã¾ã™ã€‚
 
-![‘€ìƒpƒlƒ‹](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/FrontPanel.png)
+![æ“ä½œãƒ‘ãƒãƒ«](http://rapidack.sakura.ne.jp/ttl/wp-content/uploads/2019/03/FrontPanel.png)
 
 # Authors
 
@@ -21,4 +21,6 @@ ESP32‚ÌArduinoƒXƒPƒbƒ`‚©‚çSPIŒo—R‚ÅIntel FPGA‚ğ‘€ì‚Å‚«‚Ü‚·B
 # References
 
 [https://github.com/Rapidnack/MAX1k_FM_Mono](https://github.com/Rapidnack/MAX1k_FM_Mono)
+
+[https://github.com/Rapidnack/MAX10FB_FM_Stereo](https://github.com/Rapidnack/MAX10FB_FM_Stereo)
 
