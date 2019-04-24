@@ -216,11 +216,11 @@ int AvalonPacket::packetToBytes(byte *packet, int packetSize, byte *bytes)
 		byte p = packet[i];
 		if (0x7a <= p && p <= 0x7d)
 		{
-			bytes[bytesSize++] = 0x7d;
 			if (i == packetSize - 1)
 			{
 				bytes[bytesSize++] = 0x7b;
 			}
+			bytes[bytesSize++] = 0x7d;
 			bytes[bytesSize++] = (byte)(p ^ 0x20);
 		}
 		else
